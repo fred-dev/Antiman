@@ -1,0 +1,8 @@
+Antiman IP addresses:
+RPI: 192.168.0.103
+Macbook idlab: 192.168.0.104
+Willem iPhone: 192.168.0.101
+iPhone 5: 192.168.0.106
+
+iPhoneOSCReceivePort: 7777
+antimanOSCReceivePort: 6666

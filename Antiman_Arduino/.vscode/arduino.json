@@ -1,0 +1,4 @@
+{
+    "sketch": "Antiman_Arduino.ino",
+    "board": "arduino:avr:uno"
+}
